@@ -1,4 +1,4 @@
-# Nexus Media Controller (ระบบควบคุมมัลติมีเดีย)
+# COM Media Controller
 
 ## ความต้องการของระบบ
 
