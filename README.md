@@ -1,4 +1,4 @@
-# Nexus Media Controller
+# COM Media Controller
 
 ## System Requirements
 
